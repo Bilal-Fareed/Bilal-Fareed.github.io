@@ -1,0 +1,104 @@
+[
+    {
+      "country": "USA",
+      "countryFlag": "🇺🇸"
+    },
+
+    {
+        "country": "South African",
+        "countryFlag": "🇿🇦"
+    },
+    {
+        "country": "Swiss",
+        "countryFlag": "🇱🇮"
+    },
+    {
+        "country": "Spanish",
+        "countryFlag": "🇪🇸"
+    },
+    {
+        "country": "Portuguese",
+        "countryFlag": "🇵🇹"
+    },
+    {
+        "country": "Slovenian",
+        "countryFlag": "🇸🇰"
+    },
+    {
+        "country": "New Zealander",
+        "countryFlag": "🇳🇿"
+    },
+    {
+        "country": "Polish",
+        "countryFlag": "🇵🇱"
+    },
+    {
+        "country": "Luxembourg",
+        "countryFlag": "🇱🇺"
+    },
+    {
+        "country": "Italian",
+        "countryFlag": "🇮🇹"
+    },
+    {
+        "country": "Norwegian",
+        "countryFlag": "🇳🇴"
+    },
+
+    {
+        "country": "Kazakh",
+        "countryFlag": "🇰🇿"
+    },
+    {
+        "country": "Dutch",
+        "countryFlag": "🇳🇱"
+    },
+    {
+        "country": "French",
+        "countryFlag": "🇵🇫"
+    },
+    
+    {
+        "country": "Eritrean",
+        "countryFlag": "🇪🇷"
+    },
+    
+    {
+        "country": "Danish",
+        "countryFlag": "🇩🇰"
+    },
+    {
+        "country": "Costa Rican",
+        "countryFlag": "🇨🇷"
+    },
+    {
+        "country": "Colombian",
+        "countryFlag": "🇨🇴"
+    },
+    
+    {
+        "country": "Canadian",
+        "countryFlag": "🇨🇦"
+    },
+    
+    {
+        "country": "Australian",
+        "countryFlag": "🇦🇺"
+    },
+    {
+        "country": "Austrian",
+        "countryFlag": "🇦🇹"
+    },
+    {
+        "country": "Belgian",
+        "countryFlag": "🇧🇪"
+    },
+    {
+        "country": "British",
+        "countryFlag": "🇬🇧"
+    },
+    {
+        "country": "German",
+        "countryFlag": "🇩🇪"
+    }
+]
